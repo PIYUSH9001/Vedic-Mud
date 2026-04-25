@@ -1,0 +1,13 @@
+*{
+    font-family: "Dancing Script",cursive;
+}
+
+.responsive-box {
+  top: 95vh;
+}
+
+@media (max-width: 768px) {
+  .responsive-box {
+    top: 65vh;
+  }
+}

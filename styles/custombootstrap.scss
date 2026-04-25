@@ -1,0 +1,8 @@
+// Override Bootstrap variables BEFORE importing Bootstrap
+$primary: #e9b085;   // your custom color
+$secondary:rgb(248, 230, 230);
+$light-background:rgb(48, 40, 33);
+$warning: #e0a96d;
+$body-bg: #f8f5f2;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
