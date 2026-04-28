@@ -1,0 +1,20 @@
+*{
+    font-family: "Dancing Script",cursive;
+}
+
+.responsive-box {
+  top:0;
+  background-color:#0000006c;
+}
+
+.carousel-image{
+    object-fit:cover;
+    object-position: 0% 20%;
+    height: 100vh;
+}
+
+@media (max-width: 768px) {
+  .responsive-box {
+    top: 0vh;
+  }
+}

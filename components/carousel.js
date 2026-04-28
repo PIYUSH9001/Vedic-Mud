@@ -25,17 +25,17 @@ export default function Carousel() {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <div className="carousel-img-wrapper">
-              <img src="/images/ProductImage9.jpg" className="d-block w-100 " alt="Product 1" />
+              <img src="/images/ProductImage9.jpg" className="d-block w-100 carousel-image" alt="Product 1" />
             </div>
           </div>
           <div className="carousel-item">
             <div className="carousel-img-wrapper">
-              <img src="/images/ProductImage.jpg" className="d-block w-100 " alt="Product 2" />
+              <img src="/images/ProductImage.jpg" className="d-block w-100 carousel-image" alt="Product 2" />
             </div>
           </div>
           <div className="carousel-item">
             <div className="carousel-img-wrapper">
-              <img src="/images/ProductImage7.jpg" className="d-block w-100 " alt="Product 3" />
+              <img src="/images/ProductImage7.jpg" className="d-block w-100 carousel-image" alt="Product 3" />
             </div>
           </div>
         </div>

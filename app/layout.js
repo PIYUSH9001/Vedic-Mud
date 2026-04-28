@@ -1,5 +1,5 @@
 import Navbar from "../components/navbar";
-import "./globals.css";
+import "./styles.css";
 // Import Bootstrap
 import"../styles/custombootstrap.scss";
 import BootstrapLoader from "../components/bootstraploader";
