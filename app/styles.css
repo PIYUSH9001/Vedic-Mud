@@ -17,4 +17,7 @@
   .responsive-box {
     top: 0vh;
   }
+  .carousel-image{
+    object-position: 45% 20%;
+}
 }
